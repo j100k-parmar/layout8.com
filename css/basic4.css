@@ -68,3 +68,17 @@ nav{
     font-size: 13px;
     padding-top: 30px;
 }
+.left{
+    float: left;
+    padding: 30px 0 0 50px;
+}
+.right{
+    float: left;
+    padding: 30px 0 0 110px;
+}
+footer{
+    height: 100px;
+    background-color: black;
+    color: gray;
+    margin-top: 50px;
+}
